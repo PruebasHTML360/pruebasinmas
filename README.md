@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <meta charset = "utf-8" />
-<title>Curriculum Vitae de Bruce Wayne</title>
+<title> Curriculum Vitae de Bruce Wayne </title>
 </head>
 <body>
 <h1> Curriculum Vitae de Bruce Wayne </h1>
